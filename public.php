@@ -1,4 +1,5 @@
 <?php
+die("c'est pas là");
 require_once('config.inc.php');
 // vérifier s'il est loggué
 if($_SESSION['logged_in'] != 'ok') {
